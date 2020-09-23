@@ -25,7 +25,6 @@
 #include <string.h>
 
 /* Variables ---------------------------------------------------------*/
-
 /* Function prototypes -----------------------------------------------*/
 void blink(char);
 void morse_char(char);
