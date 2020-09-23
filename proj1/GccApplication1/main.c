@@ -22,7 +22,6 @@
 /* Includes ----------------------------------------------------------*/
 #include <util/delay.h>     // Functions for busy-wait delay loops
 #include <avr/io.h>         // AVR device-specific IO definitions
-//#include <stdio.h>
 #include <string.h>
 
 /* Variables ---------------------------------------------------------*/
