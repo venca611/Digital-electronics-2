@@ -9,6 +9,10 @@
  * 
  **********************************************************************/
 
+/* Github ------------------------------------------------------------*/
+// https://github.com/venca611/Digital-electronics-2
+
+
 /* Defines -----------------------------------------------------------*/
 #define LED_GREEN   PB5     // AVR pin where green LED is connected
 #define SHORT_D 200     // Delay in miliseconds
